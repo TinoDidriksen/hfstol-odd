@@ -1,4 +1,4 @@
-```tsv
+```TSV
 Parallel split	Time	tcmalloc	Time speedup	tcmalloc speedup	tcmalloc/time
 1	209.25	122.45			0.59
 2	149.00	91.58	1.40	1.34	0.61
